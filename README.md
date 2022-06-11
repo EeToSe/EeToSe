@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m sheng li
+- 👀 I’m interested in image processing, computer vision, math and machine learning
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on computer vision
+- 📫 How to reach me stevelee8621@outlook.com
