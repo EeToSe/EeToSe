@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m sheng li
 - 👀 I’m interested in machine learning and its application to the power system.
-- 📫 How to reach me stevelee8621@outlook.com
+
